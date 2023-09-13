@@ -1,3 +1,5 @@
+package src;
+
 public class MyService {
 
     private DbSetting dbSetting = new DbSetting("name", "password");
