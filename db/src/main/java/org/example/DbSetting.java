@@ -1,4 +1,4 @@
-package src;
+package org.example;
 
 public class DbSetting {
 

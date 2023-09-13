@@ -1,4 +1,6 @@
-package src;
+package org.example;
+
+import java.util.UUID;
 
 public class MyService {
 

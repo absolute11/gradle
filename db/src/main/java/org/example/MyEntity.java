@@ -1,4 +1,4 @@
-package src;
+package org.example;
 
 import java.util.UUID;
 
@@ -29,6 +29,6 @@ public class MyEntity {
 
     @Override
     public String toString() {
-        return new StringBuilder().append("src.MyEntity{").append("id=").append(id).append(", name='").append(name).append('\'').append('}').toString();
+        return new StringBuilder().append("org.example.MyEntity{").append("id=").append(id).append(", name='").append(name).append('\'').append('}').toString();
     }
 }
